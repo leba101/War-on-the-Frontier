@@ -136,8 +136,8 @@ class CfgWeapons
 		FT_Ammo2 = "FT_14Rnd_R101_Mag_Tracer";
 		_generalMacro = "FT_R101";
 		model = "\War_on_the_Frontier\FT_Weapons\FT_R101\FT_R101.p3d";
-		hiddenSelections[] = {"camo1","camo2"};
-		hiddenSelectionsTextures[] = {"\War_on_the_Frontier\FT_Weapons\FT_R101\data\ft_R101_camo1_co.paa","\War_on_the_Frontier\FT_Weapons\FT_R101\data\ft_R101_camo2_co.paa"};
+		hiddenSelections[] = {"camo1","camo2","camo3"};
+		hiddenSelectionsTextures[] = {"\War_on_the_Frontier\FT_Weapons\FT_R101\data\ft_R101_camo1_co.paa","\War_on_the_Frontier\FT_Weapons\FT_R101\data\ft_R101_camo2_co.paa","\War_on_the_Frontier\FT_Weapons\FT_R101\data\ft_R101_camo3_ca.paa"};
 		handAnim[] = {"OFP2_ManSkeleton","\War_on_the_Frontier\FT_Weapons\FT_R101\animations\FT_R101_Hold.rtm"};
 		reloadAction = "GestureReloadDMR06";//needs to have one for itself but i don't have time to make it
 		picture = "";
